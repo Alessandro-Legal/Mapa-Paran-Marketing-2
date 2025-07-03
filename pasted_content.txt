@@ -1,0 +1,270 @@
+Sub-região 10: 
+Anahy
+Boa Vista da Aparecida
+Cafelândia
+Campo Bonito
+Capitão Leônidas Marques
+Catanduvas
+Céu Azul
+Corbélia
+Diamante do Norte
+Diamante do Sul
+Espigão Alto do Iguaçu
+Formosa do Oeste
+Guaraniaçu
+Ibaema
+Iguatu
+Iracema do Oeste
+Jesuítas
+Lindoeste
+Nova Aurora
+Santa Lucia
+Santa Tereza do Oeste
+Três Barras do Paraná
+Vera Cruz do Oeste
+
+Sub-região 11: 
+Altamira do Paraná
+Araruna
+Barbosa Ferraz
+Boa Esperança
+Campina da Lagoa
+Campo Mourão
+Corumbataí do Sul
+Engenheiro Beltrão
+Farol
+Fênix
+Goioerê
+Iretama
+Janiópolis
+Juranda
+Luiziana
+Mamborê
+Moreira Sales
+Nova Cantu
+Terra boa
+Peabiru
+Quinta do Sol
+Rancho Alegre d'Oeste
+Roncador
+Ubiratã
+Nova tebas
+Pitanga
+Boa Ventura do São Roque
+Santa maria do oeste
+Mato Rico
+
+Região 12: 
+Alto Piquiri
+Alto Paraíso
+Altônia
+Brasilândia do Sul
+Cidade Gaúcha
+Cruzeiro do Oeste
+Douradina
+Francisco Alves
+Ibiporã
+Icaraíma
+Ivaté
+Mariluz
+Perobal
+Pérola
+São Jorge do Patrocínio
+Tapejara
+Umuarama
+Xambrê.
+
+Sub-região 13: 
+Cianorte
+Tuneiras do oeste
+Jussara
+Japurá
+Guaporema
+tapejara
+cidade gaúcha
+Indianópolis
+são tome
+rondon. 
+
+Sub-região 14: 
+Alto Paraná
+Amaporã
+Cruzeiro do Sul
+Diamante do Norte
+Guaíra
+Inajá
+Jardim Olinda
+Loanda
+Marilena
+Mirador
+Nova Aliança do Ivaí
+Nova Londrina
+Paranapoema
+Paranavaí
+Planaltina do Paraná
+Porto Rico
+Querência do Norte
+Santa Cruz do Monte Castelo
+Santa Isabel do Ivaí
+Santa Mônica
+São Carlos do Ivaí
+São Pedro do Paraná
+Santo Antônio do Caiuá
+Terra Rica
+Tamboara 
+
+Sub-região 15: 
+Astorga
+Atalaia
+Bom Sucesso
+Colorado
+Doutor Camargo
+Dr. Camargo
+Floresta
+Florestópolis
+Florai
+Iguaraçu
+Itaguajé
+Itambé
+Ivatuba
+Jandaia do Sul
+Maringá
+Mandaguaçu
+Mandaguari
+Marialva
+Munhoz de Melo
+Nossa Senhora das Graças
+Nova Esperança
+Ourizona
+Paiçandu
+Paranacity
+Presidente Castelo Branco
+Santo Inácio
+Sarandi
+Santa Fé
+Santa Inês
+São Jorge do Ivaí
+Uniflor
+
+Sub-região 16: 
+Apucarana
+Arapongas
+Bom Sucesso
+Borrazópolis
+Califórnia
+Cambira
+Jandaia do Sul
+Karolé
+Marilândia do Sul
+Marumbi
+Mauá da Serra
+Novo Itacolomi
+Rio Bom
+Sabaudia
+São Pedro do Ivaí. 
+
+Sub-região 20:
+Assis Chateaubriand
+Entre Rios do Oeste
+Guaíra
+Marechal Cândido Rondon
+Maripá
+Mercedes
+Nova Santa Rosa
+Ouro Verde do Oeste
+Palotina
+Pato Bragado
+Quatro Pontes
+Santa Helena
+São Pedro do Iguaçu
+Terra Roxa
+Toledo
+Tupãssi
+
+Sub-região 22: 
+Arapuã
+Ariranha do Ivaí
+Cruzmaltina
+Cândido de Abreu
+Faxinal
+Godoy Moreira
+Ivaiporã
+Jardim Alegre
+Lidianópolis
+Lunardelli
+Manoel Ribas
+Rio Branco do Ivaí
+Rosário do Ivaí
+São João do Ivaí 
+
+Sub-região 17: 
+Alvorada do Sul
+Arapongas
+Bela Vista do Paraíso
+Cambé
+Cafeara
+Centenário do Sul
+Florestópolis
+Guaraci
+Ibiporã
+Jaguapitã
+Jataizinho
+Lupionópolis
+Miraselva
+Porecatu
+Prado Ferreira
+Pitangueiras
+Primeiro de Maio
+Rolândia
+Sabáudia
+Sertanópolis
+Tamarana
+Londrina
+
+Sub-região 18:
+Abatiá
+Andirá
+Assaí
+Bandeirantes
+Congonhas
+Cornélio Procópio
+Leópolis
+Nova América da Colina
+Nova Fátima
+Nova Santa Bárbara
+Rancho Alegre
+Ribeirão do Pinhal
+Santo Antônio do Paraíso
+Santa Cecília do Pavão
+Santa Mariana
+Santa Amélia
+São Sebastião da Amoreira
+Sertaneja
+Sapopema
+Uraí
+
+Sub-Região 19
+Barra do Jacaré
+Cambará
+Carlópolis
+Conselheiro Mairinck
+Figueira
+Guapirama
+Ibaiti
+Jaboti
+Japira
+Joaquim Távora
+Jundiaí do Sul
+Pinhalão
+Quatiguá
+Ribeirão Claro
+Salto do Itararé
+Santo Antônio da Platina
+Siqueira Campos
+Tomazina
+Jacarezinho
+
+Sub-região 21
+Ortigueria
+Telêmaco Borba
+Imbau
