@@ -83,7 +83,7 @@ function obterCor(numEmpresas) {
 // Função para carregar dados das empresas
 async function carregarDadosEmpresas() {
     try {
-        const response = await fetch('parana_empresas_com_regiao_corrigido.csv');
+        const response = await fetch('parana_empresas_com_regiao_sub12_corrigida.csv');
         const csvText = await response.text();
         
         const linhas = csvText.split('\n');
